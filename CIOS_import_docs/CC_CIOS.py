@@ -1,6 +1,4 @@
 import csv, pprint
-arc_caps = {}
-
 """
 ------------------------------------------------------
 CC header values:
